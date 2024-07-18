@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Democracy and Federalism </title>
+	<link rel = "stylesheet" type = "text/css" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap" rel="stylesheet">
+</head>
+<body>
+	<section class= "header">
+		<nav>
+			<a href="index.html"><img src = "images/PhilLogo.png" width = 40px height = 40px></a>
+			<div class ="nav-links">
+				<ul>
+					<li><a href = "index.html">Home</a></li>
+					<li><a href = "#federalism">Federalism</a></li>
+					<li><a href = "#democracy">Democracy</a></li>
+				</ul>
+		</nav>
+<div class="text-box">
+	<h1> Overview of Philippines Politics</h1>
+	<p>The Philippines has a democratic government in the form of a constitutional republic with a presidential system. The president functions as both head of state and head of government and is the commander-in-chief of the armed forces. The president is elected by direct election for a single six-year term.The president appoints and presides over the cabinet. The bicameral Congress is composed of the Senate, serving as the upper house, with members elected to a six-year term, and the House of Representatives, serving as the lower house, with members elected to a three-year term. Philippine politics tends to be dominated by those with well-known names, such as members of political dynasties or celebrities.</p>
+
+    <p>Senators are elected at-large while the representatives are elected from both legislative districts and through 
+    sectoral representation. The judicial power is vested in the Supreme Court, composed of a chief justice as its presiding officer and fourteen associate justices, all of whom are appointed by the president from nominations submitted by the Judicial and Bar Council.</p>
+
+    <p>There have been attempts to change the government to a federal, unicameral, or parliamentary government since the Ramos administration. There is a significant amount of corruption in the Philippines, which some historians attribute to the system of governance put in place during the Spanish colonial period.</p>
+	</section>
+
+<!------federalism------>
+<section class = "federalism">
+	<h1 id="federalism">What is Federalism</h1>
+	<p>The terms 'federalism' and 'confederalism' both have a root in the Latin word foedus, meaning "treaty, pact or covenant." Their common meaning until the late eighteenth century was a simple league or inter-governmental relationship among sovereign states based upon a treaty. They were therefore initially synonyms. It was in this sense that James Madison in Federalist 39 had referred to the new US Constitution as 'neither a national nor a federal Constitution, but a composition of both' (i.e. neither constituting a single large unitary state nor a league/confederation among several small states, but a hybrid of the two). In the course of the nineteenth century the meaning of federalism would come to shift, strengthening to refer uniquely to the novel compound political form established, while the meaning of confederalism would remain at a league of states. Thus, this article relates to the modern usage of the word 'federalism'.</p>
+	<p> Modern federalism is a system based upon democratic rules and institutions in which the power to govern is shared between national and provincial/state governments. The term federalist describes several political beliefs around the world depending on context.</p>
+
+	<p>Federalism is sometimes viewed as in the context of international negotiation as "the best system for integrating diverse nations, ethnic groups, or combatant parties, all of whom may have cause to fear control by an overly powerful center." However, in some countries, those skeptical of federal prescriptions believe that increased regional autonomy is likely to lead to secession or dissolution of the nation. In Syria, federalization proposals have failed in part because "Syrians fear that these borders could turn out to be the same as the ones that the fighting parties have currently carved out."</p>
+	<p>Federations such as Yugoslavia or Czechoslovakia collapsed as soon as it was possible to put the model to the test. </p>
+	<h1>Explanations for adoption of federalist systems</h1>
+		According to Daniel Ziblatt's Structuring the State, there are four competing theoretical explanations in the academic literature for the adoption of federal systems:
+	<ol>
+        <li>Ideational theories, which hold that a greater degree of ideological commitment to decentralist ideas in society makes federalism more likely to be adopted.</li>
+        <li>Cultural-historical theories, which hold that federal institutions are more likely to be adopted in societies with culturally or ethnically fragmented populations.</li>
+        <li>"Social contract" theories, which hold that federalism emerges as a bargain between a center and a periphery where the center is not powerful enough to dominate the periphery and the periphery is not powerful enough to secede from the center.</li>
+        <li>"Infrastructural power" theories, which hold that federalism is likely to emerge when the subunits of a potential federation already have highly developed infrastructures (e.g. they are already constitutional, parliamentary, and administratively modernized states).</li>
+    </ol>
+     <div class = "row">
+     	<div class = "info-row">
+     		<h3>Immanuel Kant</h3>
+     		<img src = images/kant.jpg>
+     		<p>Immanuel Kant was an advocate of federalism, noting that "the problem of setting up a state can be solved even by a nation of devils" so long as they possess an appropriate constitution which pits opposing factions against each other with a system of checks and balances. In particular individual states required a federation as a safeguard against the possibility of war.</p>
+     	</div>
+     	<div class="info-row">
+     	<h3>Prof. Jose Abueva</h3>
+     	<img src = images/ProfJoseAbueva.jpg width = 240px height=338px>
+     	<p>One of the first proponents of federalism in the Philippines in the 21st century is professor Jose Abueva from the University of the Philippines who argued that a federal form of government is necessary to more efficiently cater to the needs of the country despite its diversity.</p>
+        </div>
+     </div>
+</section>
+<!------democracy------>
+<section class = "democracy">
+	<h1 id="democracy">What is Democracy</h1>
+	<p>No consensus exists on how to define democracy, but legal equality, political freedom and rule of law have been identified as important characteristics. These principles are reflected in all eligible citizens being equal before the law and having equal access to legislative processes. For example, in a representative democracy, every vote has equal weight, no unreasonable restrictions can apply to anyone seeking to become a representative,[according to whom?] and the freedom of its eligible citizens is secured by legitimised rights and liberties which are typically protected by a constitution. Other uses of "democracy" include that of direct democracy.</p>
+
+	<p>One theory holds that democracy requires three fundamental principles: upward control (sovereignty residing at the lowest levels of authority), political equality, and social norms by which individuals and institutions only consider acceptable acts that reflect the first two principles of upward control and political equality.</p>
+
+	<p>The term "democracy" is sometimes used as shorthand for liberal democracy, which is a variant of representative democracy that may include elements such as political pluralism; equality before the law; the right to petition elected officials for redress of grievances; due process; civil liberties; human rights; and elements of civil society outside the government.Roger Scruton argues that democracy alone cannot provide personal and political freedom unless the institutions of civil society are also present.</p>
+
+	<p>In some countries, notably in the United Kingdom which originated the Westminster system, the dominant principle is that of parliamentary sovereignty, while maintaining judicial independence. In the United States, separation of powers is often cited as a central attribute. In India, parliamentary sovereignty is subject to the Constitution of India which includes judicial review. Though the term "democracy" is typically used in the context of a political state, the principles also are applicable to private organisations.</p>
+
+	<p>Majority rule is often listed as a characteristic of democracy. Hence, democracy allows for political minorities to be oppressed by the "tyranny of the majority" in the absence of legal protections of individual or group rights. An essential part of an "ideal" representative democracy is competitive elections that are substantively and procedurally "fair," i.e., just and equitable. In some countries, freedom of political expression, freedom of speech, freedom of the press, and internet democracy are considered important to ensure that voters are well informed, enabling them to vote according to their own interests.</p>
+
+	<p>It has also been suggested that a basic feature of democracy is the capacity of all voters to participate freely and fully in the life of their society. With its emphasis on notions of social contract and the collective will of all the voters, democracy can also be characterised as a form of political collectivism because it is defined as a form of government in which all eligible citizens have an equal say in lawmaking.</p>
+
+	<p>While representative democracy is sometimes equated with the republican form of government, the term "republic" classically has encompassed both democracies and aristocracies. Many democracies are constitutional monarchies, such as the United Kingdom.</p>
+
+    </ol>
+     <div class = "row">
+     	<div class = "info-row">
+     		<h3>Cleisthenes</h3>
+     		<img src = images/Cleisthenes.jpg width = 240px height= 338px>
+     		<p>Although this Athenian democracy would survive for only two centuries, its invention by Cleisthenes, “The Father of Democracy,” was one of ancient Greece's most enduring contributions to the modern world. The Greek system of direct democracy would pave the way for representative democracies across the globe.</p>
+     	</div>
+     	<div class="info-row">
+     	<h3>Andres Bonifacio</h3>
+     	<img src = images/andres.jpg width = 240px height=338px>
+     	<p>Believed firmly in the principles of democracy and in the supremacy of human rights. As the founder and leader of the Katipunan, he was, in the strictest sense, the Father of Democracy in the Philippines.</p>
+        </div>
+     </div>
+    <div class = "footer">
+    	<a href ="index.html">Return to Top</a>
+</section>
+</body>
+</html>
